@@ -1,0 +1,1 @@
+The model for predicting that the loan is approved or not based on the some basic details of an applicant
